@@ -1,0 +1,20 @@
+{
+  "name": "zhrx-commitlint-durant",
+  "version": "1.0.10",
+  "main": "index.js",
+  "description": "zhrx Git规范",
+  "keywords": [
+    "encode",
+    "commit",
+    "lint"
+  ],
+  "author": "durant",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forfreeagainst/zhrx-cli.git"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}
