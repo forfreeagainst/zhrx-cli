@@ -1,6 +1,6 @@
 {
   "name": "zhrx-commitlint-durant",
-  "version": "1.0.10",
+  "version": "1.0.14",
   "main": "index.js",
   "description": "zhrx Git规范",
   "keywords": [
